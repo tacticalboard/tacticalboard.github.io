@@ -1,4 +1,4 @@
-body,html{overscroll-behavior-y:contain}.sandtable_bg{background-image:url(../img/court.c80d89c1.jpg);background-repeat:no-repeat;background-size:contain,cover}
+body,html{overscroll-behavior-y:contain}body.is-dragging{touch-actions:pinch-zoom}
 
 /*! tailwindcss v2.2.2 | MIT License | https://tailwindcss.com */
 
