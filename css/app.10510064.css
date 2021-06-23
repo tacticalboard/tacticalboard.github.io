@@ -1,4 +1,4 @@
-body,html{overscroll-behavior-y:contain}body.is-dragging{touch-actions:pinch-zoom}
+body,html{overscroll-behavior-y:contain;touch-action:none}
 
 /*! tailwindcss v2.2.2 | MIT License | https://tailwindcss.com */
 
