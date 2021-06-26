@@ -1,8 +1,10 @@
-# Badminton Tactical Board
+# Tactical Board
 
-A badminton tactical board on your devices. Make tactical communication convenient.
+Make tactical communication convenient.
 
-[Open the Sand Table Now!](https://shuttle-sand-table.github.io/)
+## Badminton tactical board
+
+[Open the board Now!](https://tacticalboard.github.io/)
 
 ![](screenshot.jpg)
 
